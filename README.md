@@ -4,7 +4,7 @@
 
 According to the National Centre for Education Statistics, there was an overall dropout rate of 5.3% in 2020. And only about 63% of the students completed their undergraduate programs. 
 
-Prediting graduation rates will help assess 
+We predict graduation and drop out rates amongst the high-school population and identify important predictors. 
 
 ---
 
