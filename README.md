@@ -1,4 +1,4 @@
-# Predicting High-scholl Graduation and Drop-Out Reates
+# Predicting High-scholl Graduation and Drop-Out Rates
 
 ### Project Description
 
